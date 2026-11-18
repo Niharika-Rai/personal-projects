@@ -159,17 +159,6 @@ personal-projects/
 
 ---
 
-## What's Next
-
-I plan to keep adding projects and going deeper into the analysis. Next steps include:
-
-- Extending the AI analysis with **group comparisons** by region, income group, and political regime (`groupby`, box plots).
-- Building a **correlation heatmap** and a **multiple regression model** to estimate each factor's independent contribution to the Total Score.
-- Using **interactive visualization** tools (e.g., Plotly, Tableau) for dashboard-style presentation.
-- Taking on new datasets in economics and technology.
-
----
-
 ## About Me
 
 I'm a student interested in data analytics, economics, and technology. I enjoy using data to answer real-world questions and explaining the results clearly. I'm currently looking for **internship and entry-level opportunities in data analytics, business intelligence, and related roles**.
